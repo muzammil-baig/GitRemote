@@ -1,2 +1,2 @@
-# GitRemote - 1
-Author: Muzammil Baig
+# GitRemote
+<b> Author: Muzammil Baig <b>
